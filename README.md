@@ -1,3 +1,8 @@
 # Proyecto_roco
-Java Proyect using XML and files to save data.
+
+
+This was a proyect with a free subject to learn using no SQL DDBB.
+
+
+
 
