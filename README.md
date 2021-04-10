@@ -3,6 +3,8 @@
 
 This was a proyect with a free subject to learn using no SQL DDBB.
 
+I used Java a JavaSwing as user graphical interface.
+
 ![](./Pagina%20inicial.jpg)
 
 
